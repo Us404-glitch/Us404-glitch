@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python ( it's never over )
 - 💞️ I’m looking to collaborate on an interesting project but I don't have much time...
 - 📫 How to reach me : jthisquen007@gmail.com
-LinkedIn :
+- LinkedIn :
 http://linkedin.com/in/jean-thisquen-b574b0282
 
 <!---
