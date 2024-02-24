@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @Us404-glitch
-- 👀 I’m interested in AI, python, Linux,...
-- 🌱 I’m currently learning python ( it's never over )
-- 💞️ I’m looking to collaborate on an interesting project but I don't have much time...
-- 📫 How to reach me : jthisquen007@gmail.com
-- LinkedIn :
-http://linkedin.com/in/jean-thisquen-b574b0282
+# My  Profile
+## <Hello World!>
+Hello, I'm **Jean Thisquen**, a young man motivated. I am very interested in __*AI*__, __*web development*__, and different __*operating systems*__. I am currently learning **HTML** and would be very interested in a small project without complexity ( just __*for fun and learning*__ ). I have time to spend so please __*feel free to contact me*__ through the following channels:
+- [Gmail](jthisquen007@gmail.com)
+- [LinkedIn](http://linkedin.com/in/jean-thisquen-b574b0282)
+## Thank you and see you soon!
+*Thank you for taking the time to read this document*
+
 
 <!---
 Us404-glitch/Us404-glitch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
