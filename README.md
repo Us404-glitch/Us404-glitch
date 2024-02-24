@@ -4,7 +4,7 @@
 ## Contact
 - [Gmail](jthisquen007@gmail.com)
 - [LinkedIn](http://linkedin.com/in/jean-thisquen-b574b0282)
-## Thank you and see you soon !
+## Thank you and see you soon
    *Thank you for taking the time to read this document*
 
 
